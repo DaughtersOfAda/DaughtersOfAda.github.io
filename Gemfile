@@ -1,4 +1,2 @@
-source 'https://rubygems.org'
-gem 'github-pages'
-gem 'jekyll-feed'
-gem 'jemoji'
+source "https://rubygems.org"
+gemspec
