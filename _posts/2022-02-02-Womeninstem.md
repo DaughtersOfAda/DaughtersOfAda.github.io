@@ -39,6 +39,8 @@ Women’s underrepresentation in science is a complex and multicausal problem th
 
 What do you think is the main factor for the lacking of women in Science and technology?
 And most important, what are you doing to change it?
+
+
 <!--more-->
 References
 [1] Beatrice Avolio, Jessica Ch ́avez, and Carlos V ́ılchez-Rom ́an. “Factors that
@@ -46,9 +48,12 @@ contribute to the underrepresentation of women in science careers world-
 wide: a literature review”. In: Social Psychology of Education 23.3 (2020),
 pp. 773–794. issn: 15731928. doi: 10.1007/s11218-020-09558-y. url:
 https://doi.org/10.1007/s11218-020-09558-y.
+
 [2] “Evidence-Based Interventions for Addressing the Underrepresentation of
 Women in Science, Engineering, Mathematics, and Medicine”. In: Washing-
 ton (DC): National Academies Press (US) (2020). doi: 10.17226/25786
 ---
+
+
 
 -Daughter of Ada
